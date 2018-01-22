@@ -7,6 +7,10 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rishabh09/sitemapjs.git"
+  },
+  "author": "Rishabh Mishra",
+  "license": "MIT"
 }
