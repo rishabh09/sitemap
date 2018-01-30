@@ -1,16 +1,19 @@
 {
   "name": "sitemapjs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sitemap generator",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/rishabh09/sitemapjs.git"
   },
   "author": "Rishabh Mishra",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
 }
